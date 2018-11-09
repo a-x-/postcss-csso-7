@@ -44,8 +44,8 @@
     "travis": "npm run codestyle-and-test"
   },
   "dependencies": {
-    "csso": "~3.3.0",
-    "postcss": "^6.0.0"
+    "csso": "3.5.1",
+    "postcss": "7.0.0"
   },
   "devDependencies": {
     "es6-promise-polyfill": "^1.2.0",
