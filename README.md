@@ -1,7 +1,7 @@
 [![NPM version](https://img.shields.io/npm/v/postcss-csso.svg)](https://www.npmjs.com/package/postcss-csso)
 [![Build Status](https://travis-ci.org/lahmatiy/postcss-csso.svg?branch=master)](https://travis-ci.org/lahmatiy/postcss-csso)
 
-# postcss-csso
+# postcss-csso-7
 
 [PostCSS](https://github.com/postcss/postcss) plugin to minify CSS using [CSSO](https://github.com/css/csso) (a CSS minifier with structural optimizations).
 
@@ -14,14 +14,14 @@ The performance of `postcss-csso` is approximately the same as `CSSO` has itself
 ## Install
 
 ```
-npm install postcss-csso
+npm install postcss-csso-7
 ```
 
 ## Usage
 
 ```js
 var postcss = require('postcss');
-var csso = require('postcss-csso');
+var csso = require('postcss-csso-7');
 
 postcss([
     csso
