@@ -1,7 +1,7 @@
 {
-  "name": "postcss-csso",
-  "version": "3.0.0",
-  "description": "PostCSS plugin to minify CSS using CSSO",
+  "name": "postcss-csso-7",
+  "version": "3.0.1",
+  "description": "PostCSS@7 plugin to minify CSS using CSSO",
   "keywords": [
     "css",
     "minifier",
@@ -12,13 +12,13 @@
     "postcss",
     "plugin"
   ],
-  "homepage": "https://github.com/lahmatiy/postcss-csso",
-  "repository": "lahmatiy/postcss-csso",
-  "author": "Roman Dvornov <rdvornov@gmail.com>",
+  "homepage": "https://github.com/a-x-/postcss-csso-7",
+  "repository": "git+https://github.com/a-x-/postcss-csso-7.git",
+  "author": "a-x-",
   "license": "MIT",
   "main": "index.js",
   "engines": {
-    "node": ">=4.0.0"
+    "node": ">=6.0.0"
   },
   "eslintConfig": {
     "env": {
